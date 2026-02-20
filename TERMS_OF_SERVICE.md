@@ -1,3 +1,8 @@
+---
+title: Terms of Service
+permalink: /terms/
+---
+
 # Terms of Service — Happy Jumper Bot
 
 **Last updated:** 2026-02-20
