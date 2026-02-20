@@ -1,3 +1,8 @@
+---
+title: Restricted License
+permalink: /license/
+---
+
 # Restricted License — Happy Jumper Bot
 
 **Copyright (c) 2026 BjornOdinsson89. All rights reserved.**
