@@ -1,3 +1,8 @@
+---
+title: Torn API Disclosure
+permalink: /torn-api/
+---
+
 # Torn API Disclosure & Disclaimer — Happy Jumper Bot
 
 **Last updated:** 2026-02-20  
