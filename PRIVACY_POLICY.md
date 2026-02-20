@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # Privacy Policy — Happy Jumper Bot
 
 **Last updated:** 2026-02-20  
